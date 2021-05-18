@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0171e37.chunk.css",
+    "main.js": "/static/js/main.a75d2823.chunk.js",
+    "main.js.map": "/static/js/main.a75d2823.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d346e5fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d346e5fa.js.map",
+    "static/js/2.2ac05ecf.chunk.js": "/static/js/2.2ac05ecf.chunk.js",
+    "static/js/2.2ac05ecf.chunk.js.map": "/static/js/2.2ac05ecf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e0171e37.chunk.css.map": "/static/css/main.e0171e37.chunk.css.map",
+    "static/js/2.2ac05ecf.chunk.js.LICENSE.txt": "/static/js/2.2ac05ecf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/florian-klauer-mk7D-4UCfmg-unsplash.a4d5c494.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d346e5fa.js",
+    "static/js/2.2ac05ecf.chunk.js",
+    "static/css/main.e0171e37.chunk.css",
+    "static/js/main.a75d2823.chunk.js"
+  ]
+}
